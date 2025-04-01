@@ -1,4 +1,4 @@
-*.bak
+
 *.mdf
 *.ldf
 *DB/DB/HMS_DB
