@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic__account_profile"
+            android:title= "Profile" />
+        <item
+            android:id="@+id/nav_changepass"
+            android:icon="@drawable/ic_round_lock_changepass"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_category"
+            android:title="Category " />
+        <item
+            android:id="@+id/nav_doctor"
+            android:icon="@drawable/ic_doctor"
+            android:title="Doctor" />
+        <item
+            android:id="@+id/nav_appointment"
+            android:icon="@drawable/ic_baseline_appointment"
+            android:title="Appointment" />
+        <item
+            android:id="@+id/nav_bill"
+            android:icon="@drawable/ic_baseline_bill"
+            android:title="Bill" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_baseline_notifications"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_givefeedback"
+            android:icon="@drawable/ic_baseline_feedback"
+            android:title="Give Feedback" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_baseline_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_logout"
+            android:title="Logout" />
+
+
+    </group>
+</menu>

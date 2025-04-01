@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HMS - Patient</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tvRecord">Advice for frontline workers
+Getting tested as a healthcare or aged care worker
+Emergency accommodation for healthcare workers
+Mental health resources
+COVID-19 health workforce response
+International healthcare professionals moving to Victoria
+Frequently asked questions
+Hospital Surge Support Allowance for hospital workers and Ambulance Victoria paramedics</string>
+    <string name="tvterms">Technology has improved immensely in recent days. Improving the quality of one’s life is an important benefit of technology in healthcare. Besides, it also reduces the burden of staff in the hospital and improves the health of the patient easily and efficiently.
+
+The three keys in the healthcare sector are
+
+Technological enablement
+Digitization
+Automation
+This transformation with the Hospital Management System switches traditional hospitals into Smart Hospitals. Moreover. Smart hospitals have the potential for exponential growth.
+
+Smart Hospitals are in high demand in the 21st century. The market value of smart hospitals accounted for 22.2 billion USD in 2018. However, in 2021, it has risen to 35.9 billion USD. Moreover, the estimated market value in 2026 is 83.1 billion USD!!! Thus, technology is essentially a catalyst in the healthcare industry. (Source: Statista)</string>
+</resources>
